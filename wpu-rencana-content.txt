@@ -4,6 +4,10 @@ Rencana
 - JAVASCRIPT
   * ES6
   * FRAMEWORK
+    #vue
+    #react
 - Fundamental Data Struktur
 - CSS
+  #Laravel
 - REACT
+- Phyton
