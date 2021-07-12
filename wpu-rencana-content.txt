@@ -1,0 +1,6 @@
+Rencana
+
+- HTML
+- JAVASCRIPT
+- CSS
+- REACT
