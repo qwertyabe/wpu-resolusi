@@ -4,6 +4,8 @@ Rencana
 - JAVASCRIPT
   * ES6
   * FRAMEWORK
-- Fundamental Data Struktur
+    # Angular
+    # React
 - CSS
+  # Laravel
 - REACT
